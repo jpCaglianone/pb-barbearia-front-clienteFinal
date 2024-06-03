@@ -1,0 +1,10 @@
+.nav-link {
+    color:gold;
+    transition: all 0.25s;
+}
+.nav-link:hover{
+    text-shadow:1px 1px 7.5px gold;
+    color:gold;
+    transform: scale(1.1);
+    transition: all 0.25s;
+}
